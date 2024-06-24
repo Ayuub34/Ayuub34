@@ -37,10 +37,10 @@ Business Intelligence & Data Visualization:
 
 Artificial Intelligence:
 
-    Computer Vision
     Statistics
     Machine Learning
     Deep Learning
+    Computer Vision
 
 Image Processing:
 
