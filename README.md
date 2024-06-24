@@ -1,47 +1,55 @@
-## Hi there 👋
+Hi there 👋
 
-Bienvenue sur mon profil GitHub ! 👋
-À propos de moi
+Welcome to my GitHub profile! 👋
+About Me
 
-Je suis passionné par l'intelligence artificielle et l'analyse et le traitement de données et le développement logiciel. J'ai acquis une expérience variée dans plusieurs domaines, notamment la programmation, l'analyse et traitement des données et l'intelligence artificielle.
+I am passionate about artificial intelligence, data analysis and processing, and software development. I have gained varied experience in several related fields, including scientific programming, data analysis and processing, and artificial intelligence.
+Skills
 
-Compétences
+Programming Languages:
 
-Python cpp  Matlab R Java
+    Python
+    C++
+    MATLAB
+    R
+    Java
 
-Développement logiciel Desktop
+Software Development:
 
-Git Qt tkinter 
-Analyse de données
-Traitement de données
+    Desktop Development
+    Git
+    Qt
+    Tkinter
 
-spark
-BI & visualisation de données
+Data Analysis and Processing:
+
+    Python : NumPy, SciPy, Pandas, Matplotlib, Seaborn, ...
+    Spark
+
+Business Intelligence & Data Visualization:
 
     Talend
-    Cubes OLAP/ MOLAP/ ROLAP
-    Schémas clés : schéma en étoile , schéma en constellation, schéma en flocon
+    OLAP/MOLAP/ROLAP Cubes
+    Key Schemas: Star Schema, Constellation Schema, Snowflake Schema
     Power BI
     Tableau
 
+Artificial Intelligence:
 
-Intelligence Artificielle
-
-    Vision par ordinateur
-    Statistiques
+    Computer Vision
+    Statistics
     Machine Learning
     Deep Learning
 
-Traitement d'images
+Image Processing:
 
-    Algorithmique du traitement d'images
-    Bibliothéques Python de traitement d'images : OpenCV, Pillow, scikit-image
-    Usage des modéles de Keras pour l'analyse et la classification des images en transfer learning : VGG16, VGG19, InceptionV3, InceptionResnetV2
+    Image Processing Algorithms
+    Python Libraries for Image Processing: OpenCV, Pillow, scikit-image
+    Using Keras models for image analysis and classification with transfer learning: VGG16, VGG19, InceptionV3, InceptionResnetV2
 
-N'hésitez pas à explorer mes repositories pour découvrir mes projets et contributions. Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter (ayoub.mnina5@gmail.com).
+Feel free to explore my repositories to discover my projects and contributions. If you have any questions or collaboration opportunities, do not hesitate to contact me at ayoub.mnina5@gmail.com.
 
-Merci de visiter mon profil !
-
+Thank you for visiting my profile!
 <!--
 **AyoubMNINA/AyoubMNINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
