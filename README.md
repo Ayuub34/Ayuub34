@@ -19,8 +19,8 @@ Software Development:
 
     Desktop Development
     Git
-    Qt
-    Tkinter
+    Qt (PyQT5)
+    Tkinter/PyGame
 
 Data Analysis and Processing:
 
