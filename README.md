@@ -9,7 +9,7 @@ I am passionate about data science (maching learning, deep learning, artificial 
 Programming Languages:
 
     Python
-    C++
+    C/C++
     MATLAB
     R
     Java
@@ -17,28 +17,29 @@ Programming Languages:
 Software Development:
 
     Desktop Development
+    Qt
     Git
-    Qt (PyQT5)
     Tkinter/PyGame
 
 Data Analysis and Processing:
 
     Python : NumPy, SciPy, Pandas, Matplotlib, Seaborn, ...
-    Spark
+    R
 
 Business Intelligence & Data Visualization:
 
     Talend
-    OLAP/MOLAP/ROLAP Cubes
-    Key Schemas: Star Schema, Constellation Schema, Snowflake Schema
     Power BI
     Tableau
+    OLAP/MOLAP/ROLAP Cubes
+    Key Schemas: Star Schema, Constellation Schema, Snowflake Schema
 
 Artificial Intelligence:
 
+    Mathematics
     Statistics
-    Machine Learning
-    Deep Learning
+    Machine Learning : sickit-learn
+    Deep Learning : TensorFlow, PyTorch, Keras
     Computer Vision
 
 Image Processing:
@@ -47,7 +48,7 @@ Image Processing:
     Python Libraries for Image Processing: OpenCV, Pillow, scikit-image
     Using Keras models for image analysis and classification with transfer learning: VGG16, VGG19, InceptionV3, InceptionResnetV2
 
-Feel free to explore my repositories to discover my projects and contributions. If you have any questions or collaboration opportunities, do not hesitate to contact me at ayoub.mnina5@gmail.com.
+Feel free to explore my repositories to discover my projects and contributions. If you have any questions or collaboration opportunities, do not hesitate to contact me at ayoub.mnina5@gmail.com or </a>https://www.linkedin.com/in/mninaayoub/</a>.
 
 Thank you for visiting my profile!
 <!--
