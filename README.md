@@ -50,7 +50,7 @@ Image Processing:
 
 Feel free to explore my repositories to discover my projects and contributions. If you have any questions or collaboration opportunities, do not hesitate to contact me at ayoub.mnina5@gmail.com or </a>https://www.linkedin.com/in/mninaayoub/</a>.
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! 👋
 <!--
 **AyoubMNINA/AyoubMNINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
