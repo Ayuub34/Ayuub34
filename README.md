@@ -13,13 +13,14 @@ Programming Languages:
     MATLAB
     R
     Java
+    Scheme
 
 Software Development:
 
     Desktop Development
-    Qt
-    Git
+    Qt(PyQt5)/PySide 
     Tkinter/PyGame
+    Git
 
 Data Analysis and Processing:
 
@@ -31,6 +32,7 @@ Business Intelligence & Data Visualization:
     Talend
     Power BI
     Tableau
+    SAS / Stata
     OLAP/MOLAP/ROLAP Cubes
     Key Schemas: Star Schema, Constellation Schema, Snowflake Schema
 
