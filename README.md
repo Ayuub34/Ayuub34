@@ -17,15 +17,15 @@ Programming Languages:
 
 Software Development:
 
-    Desktop Development
-    Qt(PyQt5)/PySide 
+    OOP / UML
+    Desktop Development : Qt(PyQt5) / PySide 
     Tkinter/PyGame
     Git
 
 Data Analysis and Processing:
 
     Python : NumPy, SciPy, Pandas, Matplotlib, Seaborn, ...
-    R
+    R : dplyr , ggplot2 , tidyr , care, ...
 
 Business Intelligence & Data Visualization:
 
@@ -40,15 +40,18 @@ Artificial Intelligence:
 
     Mathematics
     Statistics
+    Optimization
     Machine Learning : sickit-learn
     Deep Learning : TensorFlow, PyTorch, Keras
+    NLP & LLMs : nltk, spaCy, ...
     Computer Vision
+    Generative AI
 
 Image Processing:
 
     Image Processing Algorithms
-    Python Libraries for Image Processing: OpenCV, Pillow, scikit-image
-    Using Keras models for image analysis and classification with transfer learning: VGG16, VGG19, InceptionV3, InceptionResnetV2
+    Python for Image Processing: OpenCV, Pillow, scikit-image
+    Transfer Learning for image analysis and classification 
 
 Feel free to explore my repositories to discover my projects and contributions. If you have any questions or collaboration opportunities, do not hesitate to contact me at ayoub.mnina5@gmail.com or </a>https://www.linkedin.com/in/mninaayoub/</a>.
 
