@@ -2,7 +2,7 @@ Hi there 👋
 
 Welcome to my GitHub profile! 👋
 
-About Me
+About Me :
 
 I am passionate about data science (maching learning, deep learning, artificial intelligence), data analysis and processing, and software development. I have gained varied experience in several related fields, including scientific programming, data analysis, and ML.
 
