@@ -4,32 +4,38 @@ Welcome to my GitHub profile! 👋
 
 About Me :
 
-I am passionate about data processing, data analysis, data science (maching learning, deep learning, artificial intelligence) and software development. I have gained varied experience in several related fields, including scientific programming, data analysis, and ML.
+I am passionate about data processing, data analysis, data science (maching learning, deep learning, artificial intelligence) and software development. I have gained varied experience in several related fields, including scientific programming, data engineering/analysis, and ML.
 
 Programming Languages:
 
     Python
-    C/C++
+    SQL / PL-SQL
     MATLAB
-    R
+    C/C++
     Java
+    R
+    JavaScript
     Scheme
+    Scilab
 
 Software Development:
 
     OOP / UML
-    App Desktop Development : Qt / PySide 
-    Git
+    Design Pattern
+    Desktop App Development : Qt & PySide 
+    Web App Development : HTML/CSS & RaectJs/AngularJs & Spring Boot & NodeJs & Django/Flask & FastAPI
+    Git / GitLab / GitHub
 
 Data Analysis and Processing:
 
-    Python : NumPy, SciPy, Pandas, Matplotlib, Seaborn, ...
-    R : dplyr , ggplot2 , tidyr , care, ...
+    Python : NumPy, SciPy, Pandas, Matplotlib, Seaborn, PySpark; etc.
+    R : dplyr , ggplot2 , tidyr , care, etc.
 
-Business Intelligence & Data Visualization:
+ETL & BI & Data Visualization:
 
     Talend
-    Power BI
+    Microsoft Power BI &  Microsoft Fabric
+    Azure Databricks & Azure Data Factory
     Tableau
     SAS / Stata
     OLAP/MOLAP/ROLAP Cubes
@@ -38,13 +44,13 @@ Business Intelligence & Data Visualization:
 Artificial Intelligence:
 
     Mathematics
-    Statistics
+    Proba/Statistics
     Optimization
     Machine Learning : sickit-learn
-    Deep Learning : TensorFlow, PyTorch, Keras
-    NLP & LLMs : nltk, spaCy, ...
+    Deep Learning : TensorFlow/Keras, PyTorch
     Computer Vision
-    Generative AI
+    NLP : nltk, spaCy
+    Generative AI; LLMs & AI Agents : AutoGen, LangGraph, AgentWorkflow, OpenAI SDK, etc.
 
 Image Processing:
 
