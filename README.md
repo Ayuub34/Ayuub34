@@ -59,5 +59,6 @@ Image Processing:
     Transfer Learning for image analysis and classification 
 
 Feel free to explore my repositories to discover my projects and contributions. If you have any questions or collaboration opportunities, do not hesitate to contact me at ayoub.mnina5@gmail.com or </a>https://www.linkedin.com/in/mninaayoub/</a>.
+Also you can find more on my portfolio : https://ayuub34.github.io/Ayoub-Mnina-Portfolio/
 
 Thank you for visiting my profile! 👋
