@@ -16,13 +16,19 @@
 
 Passionate about transforming data into actionable insights through **Data Processing**, **Analytics**, **Data Science (Machine Learning & Deep Learning & AI)**, and **Scientific Software Development**.    
 I have gained varied experience in several related fields, including scientific programming, building end-to-end Data pipelines, intelligent systems, and scalable applications.   
-
-🔭 Currently working on: **AI-powered applications & LLM-based agents**  
-🌱 Learning: **Generative AI, and MLOps**
+ 
+🌱 Learning: **Space Geodesy & Geospatial Data Science**
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🤖 AI & Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,13 +38,6 @@ I have gained varied experience in several related fields, including scientific 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 
 **Specializations:**
 - 📊 Statistical Modeling & Optimization
