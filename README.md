@@ -75,18 +75,6 @@ I have gained varied experience in several related fields, including scientific 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayuub34&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayuub34&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations, collaboration opportunities, and innovative projects.
