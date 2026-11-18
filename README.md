@@ -17,7 +17,7 @@
 Passionate about transforming data into actionable insights through **Data Processing**, **Analytics**, **Data Science (Machine Learning & Deep Learning & AI)**, and **Scientific Software Development**.    
 I have gained varied experience in several related fields, including scientific programming, building end-to-end Data pipelines, intelligent systems, and scalable applications.   
  
-🌱 Learning: **Space Geodesy & Geospatial Data Science**
+🌱 Learning: **Space and Satellite Geodesy + Geospatial Data Science**
 
 ---
 
@@ -57,7 +57,6 @@ I have gained varied experience in several related fields, including scientific 
 **Tools & Platforms:**
 - ETL: Talend, Azure Data Factory
 - Cloud: Azure Databricks, Microsoft Fabric
-- Data Warehousing: Star/Snowflake schemas, OLAP cubes
 - Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly, Dash/Streamlit
 
 ### 🌐 Web & Software Development
@@ -69,7 +68,6 @@ I have gained varied experience in several related fields, including scientific 
 
 **Architecture & Best Practices:**
 - Object-Oriented Programming (OOP)
-- Design Patterns
 - Git/GitLab/GitHub workflows
 - Desktop (Qt/PySide) & Web (React, Angular, Node.js) applications
 
